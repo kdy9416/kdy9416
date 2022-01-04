@@ -1,11 +1,6 @@
  안녕하세요👋
  JAVA/Spring Boot 백엔드 개발을 공부하고있는 김동윤입니다
 
-프로그래밍 하는게 지치고 힘들때마다 개발을 즐거워했던 초심으로 돌아가기 위해 아래의 명언을 생각하고 좌우명으로 삼고있습니다.
-
-"좋은 프로그래머 대부분은 돈이나 대중에게 받을 찬사를 기대하고 프로그래밍을 하지 않고 프로그래밍이 재미 있어서 한다."
-
--Charles Babbage-
 
 <!--
 **kdy9416/kdy9416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
